@@ -19,9 +19,9 @@ public class Fibonacci {
         }
 
         if (pertenceFibonacci(numero)) {
-            System.out.println(numero + " pertence à sequência de br.com.target.fibonacci.Fibonacci.");
+            System.out.println(numero + " pertence à sequência de Fibonacci.");
         } else {
-            System.out.println(numero + " não pertence à sequência de br.com.target.fibonacci.Fibonacci.");
+            System.out.println(numero + " não pertence à sequência de Fibonacci.");
         }
     }
 
